@@ -1,6 +1,6 @@
 # 🧪 Funky.py — Nanodrop Dilution Calculator
 
-A Python script to process CSV files exported from the **Nanodrop**, clean the data, and automatically calculate dilution parameters for nucleic acid samples.
+A Python script to process CSV files exported from the **Nanodrop**, clean the data, and automatically calculate dilution parameters for nucleic acid and protein samples.
 
 ---
 
@@ -137,7 +137,7 @@ Calculates the **final volume (V2)** to which you must bring the sample to reach
 
 The CSV file must contain at least the following columns (standard Nanodrop export format):
 
-| Sample ID | Nucleic Acid | Unit |
+| Sample ID | Nucleic Acid/Protein | Unit ng/µL or µg/µL |
 |---|---|---|
 | B | 0.5 | ng/µL |
 | M1 | 245.3 | ng/µL |
