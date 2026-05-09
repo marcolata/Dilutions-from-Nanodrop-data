@@ -156,3 +156,10 @@ C1 × V1 = C2 × V2
 ```
 
 Depending on the scenario, the unknown variable (`C2`, `V1`, or `V2`) is solved for.
+
+## Author
+
+Marco Antonio Tafoya Olvera
+
+Developed as part of a personal portfolio.  
+Feel free to open an issue or submit a pull request with suggestions.
