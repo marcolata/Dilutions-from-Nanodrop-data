@@ -32,7 +32,7 @@ your-project/
 
 ## 🚀 How to Use
 
-All analysis is done through **`Workbook.ipynb`**. Open it in Jupyter and follow these steps:
+All analysis is done through **`Workbook.ipynb`**. Open it  and follow these steps:
 
 **1. List available CSV files**
 The notebook scans your folder and prints the available Nanodrop files:
@@ -43,7 +43,7 @@ files = glob.glob(path, recursive=True)
 
 **2. Select your file**
 ```python
-archivo = "RNA_DILUCIONES.csv"
+archivo = "archivo.csv"
 ```
 
 **3. Call the function you need**
